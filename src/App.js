@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Coin from './components/Coin';
+import Features from './components/Features';
 
 const App = () => {
     return (
@@ -11,6 +12,7 @@ const App = () => {
             <div className='max-w-7xl mx-auto'>
                 <Hero></Hero>
                 <Coin></Coin>
+                <Features></Features>
             </div>
         </div>
     )
