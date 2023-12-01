@@ -2,7 +2,7 @@ import React from 'react'
 
 const Navbar = () => {
     return (
-        <div className='max-w-7xl mx-auto flex justify-between items-center py-4 px-2 xl:px-0'>
+        <div className='max-w-7xl mx-auto flex justify-between items-center py-4'>
             <div>
                 <img src="https://i.ibb.co/z6M3NQB/SGN-11-30-2023-1701362693687.png" alt="logo" className='w-10' />
             </div>
