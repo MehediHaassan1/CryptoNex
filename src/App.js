@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import Coin from './components/Coin';
 import Features from './components/Features';
 import MoreFeatures from './components/MoreFeatures';
+import Info from './components/Info';
 
 const App = () => {
     return (
@@ -15,6 +16,7 @@ const App = () => {
                 <Coin></Coin>
                 <Features></Features>
                 <MoreFeatures></MoreFeatures>
+                <Info></Info>
             </div>
         </div>
     )
