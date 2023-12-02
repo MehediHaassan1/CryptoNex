@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Coin from './components/Coin';
 import Features from './components/Features';
+import MoreFeatures from './components/MoreFeatures';
 
 const App = () => {
     return (
@@ -13,6 +14,7 @@ const App = () => {
                 <Hero></Hero>
                 <Coin></Coin>
                 <Features></Features>
+                <MoreFeatures></MoreFeatures>
             </div>
         </div>
     )
