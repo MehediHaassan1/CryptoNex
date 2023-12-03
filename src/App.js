@@ -7,6 +7,7 @@ import Features from './components/Features';
 import MoreFeatures from './components/MoreFeatures';
 import Info from './components/Info';
 import About from './components/About';
+import Testimonials from './components/Testimonials';
 
 const App = () => {
     return (
@@ -19,6 +20,7 @@ const App = () => {
                 <MoreFeatures></MoreFeatures>
                 <Info></Info>
                 <About></About>
+                <Testimonials />
             </div>
         </div>
     )
