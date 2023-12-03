@@ -8,7 +8,7 @@ const Testimonials = () => {
                 <p className='hidden md:block w-[400px] lg:text-lg'>Everything you need to accept card payments and grow your business anywhere on the planet.</p>
             </div>
             <div className='grid grid-cols-1 gap-6 md:grid-cols-3 my-20'>
-                <div className='px-4 py-6 bg-[#2d2c35] bg-gradient-to-r from-[#110f1c] to-[#3e3e44] rounded-lg relative'>
+                <div className='px-4 py-6 bg-gradient-to-r from-[#110f1c] to-[#3e3e44] rounded-lg relative'>
                     <span className='mt-4 text-6xl bg-gradient-to-r from-[#BF1E2D] to-white text-transparent bg-clip-text'>"</span>
                     <p className='mb-12'>Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.</p>
                     <div className='flex gap-4 items-center mt-10 absolute bottom-0'>
