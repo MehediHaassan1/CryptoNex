@@ -11,7 +11,7 @@ const About = () => {
             <div>
                 <h2 className='text-2xl mb-4 lg:text-3xl'>You do the business, we’ll handle the money.</h2>
                 <p className='text-lg mb-4 lg:text-xl'>With the right credit card, you can improve your financial life by building credit, earning rewards and saving money. But with hundreds of credit cards on the market.</p>
-                <button className='px-4 py-2 bg-[#BF1E2D] rounded-lg'>Get Started</button>
+                <button className='px-4 py-2 bg-[#BF1E2D] rounded-lg hover:bg-[#632b30] transition-all duration-300'>Get Started</button>
             </div>
             <div className='flex flex-col gap-6 '>
                 <div className='flex items-center justify-between md:gap-4'>

@@ -36,7 +36,7 @@ const Features = () => {
                     <div>
                         <h4 className='text-lg font-semibold mb-2'>{item.title}</h4>
                         <p className='mb-2 '>{item.description}</p>
-                        <button className='rounded- lg px-4 bg-[#BF1E2D]'>{item.btn}</button>
+                        <button className='rounded- lg px-4 py-1 bg-[#BF1E2D] rounded-lg hover:bg-[#632b30] transition-all duration-300]'>{item.btn}</button>
                     </div>
                 </div>)
             }

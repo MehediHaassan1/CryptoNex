@@ -8,7 +8,7 @@ const TryService = () => {
                 <p className='my-4 lg:text-xl'>Everything you need to accept card payments and grow your business anywhere on the planet.</p>
             </div>
             <div className='text-center'>
-                <button className='px-4 py-2 bg-[#BF1E2D] rounded-lg'>Get Started</button>
+                <button className='px-4 py-2 bg-[#BF1E2D] rounded-lg hover:bg-[#632b30] transition-all duration-300'>Get Started</button>
             </div>
         </div>
     )
